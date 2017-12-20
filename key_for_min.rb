@@ -8,6 +8,7 @@ name_hash.collect do |key, value|
        if key < res_array [0]
          res_array [0]= key
        end
+end
 res_array
-   
+
 end
